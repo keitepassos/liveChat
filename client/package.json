@@ -31,7 +31,10 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.13.10",
+    "digital": "^0.0.1",
+    "envelope": "^2.1.0",
     "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react-dom": "^17.0.2",
+    "routines": "^0.3.0"
   }
 }
