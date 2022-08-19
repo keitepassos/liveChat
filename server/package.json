@@ -7,7 +7,6 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "graphql": "^16.6.0",
-    "graphql-yoga": "1.18.3"
+    "graphql-yoga": "^1.18.3"
   }
 }
